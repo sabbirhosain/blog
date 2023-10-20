@@ -133,6 +133,7 @@ h6 {
 #header .logo h1 a:hover {
   color: #2b2320;
   text-decoration: none;
+  font-weight: bold;
 }
 
 #header .logo img {
